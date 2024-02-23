@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola! 👋
+
+Hola, soy Angel Contreras de Mexico, Puebla. Desarrollador de software.
+
+¡Me gusta programar, leer libros sobre productividad y finanzas y jugar videojuegos!
+
+¡Encontrarás la mayoría de mis proyectos que hago en mi tiempo libre aquí!
+---
+Si quieres comunicarte conmigo, puedes enviarme un DM en Instagram @deivchoi o simplemente enviarme un correo electrónico.
 
 <!--
 **angelcgar/angelcgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
