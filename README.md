@@ -1,24 +1,9 @@
 ### Hola! 👋
 
-Hola, soy Angel Contreras de Mexico, Puebla. Desarrollador de software.
+Hola, soy Angel Contreras Garcia de Puebla, Mexico. Desarrollador de software.
 
 ¡Me gusta programar, leer libros sobre productividad y finanzas y jugar videojuegos!
 
 ¡Encontrarás la mayoría de mis proyectos que hago en mi tiempo libre aquí!
 ---
-Si quieres comunicarte conmigo, puedes enviarme un correo electrónico. ac5802021@gmail.com
-
-<!--
-**angelcgar/angelcgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si quieres comunicarte conmigo, puedes enviarme un correo electrónico a ac5802021@gmail.com
