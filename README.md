@@ -2,7 +2,7 @@
 
 Hola, soy Angel Contreras Garcia de Puebla, Mexico. Desarrollador de software.
 
-¡Me gusta programar, leer libros sobre productividad y finanzas y jugar videojuegos!
+¡Me gusta programar, leer libros sobre productividad y finanzas!
 
 ¡Encontrarás la mayoría de mis proyectos que hago en mi tiempo libre aquí!
 ---
