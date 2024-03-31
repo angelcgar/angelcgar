@@ -1,9 +1,24 @@
-### Hola! 👋
+### ¡Hola! 👋
 
-Hola, soy Angel Contreras Garcia de Puebla, Mexico. Desarrollador de software.
+¡Bienvenido a mi perfil de GitHub!
 
-¡Me gusta programar, leer libros sobre productividad y finanzas!
+Soy Ángel Contreras García, un apasionado desarrollador de software con sede en Puebla, México.
 
-¡Encontrarás la mayoría de mis proyectos que hago en mi tiempo libre aquí!
+#### Acerca de mí
+
+- 🖥️ Actualmente, me dedico al desarrollo de software, explorando nuevas tecnologías y mejorando mis habilidades en el campo.
+- 📚 Me encanta aprender y mejorar constantemente. Disfruto leyendo libros sobre productividad y finanzas para aplicar estos conocimientos en mi vida personal y profesional.
+
+#### Proyectos
+
+Aquí encontrarás una variedad de proyectos en los que he estado trabajando en mi tiempo libre. Desde pequeñas herramientas útiles hasta aplicaciones más complejas, ¡hay algo para todos!
+
 ---
-Si quieres comunicarte conmigo, puedes enviarme un correo electrónico a ac5802021@gmail.com
+
+#### Contacto
+
+Si deseas comunicarte conmigo o colaborar en algún proyecto, no dudes en ponerte en contacto:
+
+📧 Correo Electrónico: [ac5802021@gmail.com](mailto:ac5802021@gmail.com)
+
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. No dudes en explorar mis repositorios y dejarme tus comentarios o sugerencias.
