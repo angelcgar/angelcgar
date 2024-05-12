@@ -19,6 +19,6 @@ Aquí encontrarás una variedad de proyectos en los que he estado trabajando en 
 
 Si deseas comunicarte conmigo o colaborar en algún proyecto, no dudes en ponerte en contacto:
 
-- Correo Electrónico: [ac5802021@gmail.com](mailto:ac5802021@gmail.com)
+- ✉️ Correo Electrónico: [ac5802021@gmail.com](mailto:ac5802021@gmail.com)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. No dudes en explorar mis repositorios y dejarme tus comentarios o sugerencias.
